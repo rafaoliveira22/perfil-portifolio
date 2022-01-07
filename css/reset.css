@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Righteous&display=swap');
+
+*{
+    border:none;
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration:none;
+    color:#fff;
+}
+
+html{
+    scroll-behavior: smooth;
+}
